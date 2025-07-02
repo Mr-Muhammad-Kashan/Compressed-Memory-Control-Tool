@@ -1,0 +1,21 @@
+# ================================
+# ✅ External Dependencies
+# ================================
+
+# PyInstaller: for bundling the app into a single .exe
+pyinstaller
+
+# Optional: For admin privilege support (Windows only)
+pypiwin32
+
+# ================================
+# ℹ️ Built-in Modules (DO NOT INSTALL)
+# These are included in Python standard library:
+#
+# - tkinter       → GUI (no pip needed)
+# - os            → file system and OS access
+# - sys           → system functions
+# - subprocess    → running PowerShell commands
+# - ctypes        → Windows integration (taskbar icons)
+# - webbrowser    → open GitHub/BuyMeACoffee links
+# ================================
